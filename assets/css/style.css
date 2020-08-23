@@ -1,16 +1,18 @@
 #leftside, #rightside {
-    height: 100vh;
     width:100%;
     /* position: absolute; */
 }
 
 #leftside {
-    background: #ecd4fd;
+    background: #D8B39F;
     opacity: 100%;
+    padding: 50px;
 }
 
 #rightside {
     background-color: white;
+    top: 15px;
+    left: 15px;
     
 }
 
@@ -23,10 +25,6 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: xx-large;
     font-weight: bold;
-}
-
-#aboutmerow {
-    
 }
 
 #imgcol{
@@ -72,7 +70,8 @@ i:hover  {
 }
 
 .jumbotron {
-    background-color:#ecd4fd8a;
+    background-color:#d8b39fa6;
+}    
 
 .display-4 { 
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -85,3 +84,28 @@ i:hover  {
     
     max-width: 700px;
 }
+
+
+/* Portfolio */
+
+#toprow {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-md-6 {
+    margin-bottom: 20px;
+}
+
+/* Footer*/
+
+.footer {
+    margin-top: 20px;
+    bottom: 0;
+    width: 100%;
+    height: 60px; /* Set the fixed height of the footer here */
+    line-height: 60px; /* Vertically center the text there */
+    text-align: center;
+    color:  rgb(53, 51, 51);
+  }
