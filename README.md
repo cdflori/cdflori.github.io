@@ -26,7 +26,7 @@ For this page I used my same template layout but included a card gallery to disp
 
 ![Contact Page](/contact.html)
 
-![Contact Page](/assets/images/ContactPage.png)
+![Contact Page](/assets/images/ContactMePage.png)
 
 For this page I used the same template layout but included a contact form with the following information: Name, Email, Project Details with a submit buttons.
 
