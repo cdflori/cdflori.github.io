@@ -1,6 +1,6 @@
 # cdflori.github.io
 
-Fot this project I wanted to have a website that reflected my design asthetic. I consider this version to be a building block to a much more advanced site by the end of term.
+Fot this project I wanted to have a website that reflected my design aesthetic. I consider this version to be a building block to a much more advanced site by the end of term.
 
 https://cdflori.github.io/
 
