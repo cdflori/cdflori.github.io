@@ -20,7 +20,7 @@ For this page I used Bootstrap grid system to create a template for my site. I m
 
 ![Portfolio Page](/assets/images/PortfolioPage.png)
 
-For this page I used my same template layout but included a card gallery to display future work. I used flex bot variable to create uniform padding around cards.
+For this page I used my same template layout but included a card gallery to current and future work. I used flex bot variable to create uniform padding around cards.
 
 ## Contact Page
 
